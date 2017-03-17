@@ -1,0 +1,25 @@
+{
+  "name": "oadate-to-date",
+  "version": "1.0.0",
+  "description": "OADate to Date converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florinppopescu/oadate-to-date.git"
+  },
+  "keywords": [
+    "OADate",
+    "mssql",
+    "double",
+    "datetime"
+  ],
+  "author": "Florin Popescu <florin@ltsdevelopment.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florinppopescu/oadate-to-date/issues"
+  },
+  "homepage": "https://github.com/florinppopescu/oadate-to-date#readme"
+}
